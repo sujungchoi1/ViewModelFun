@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.wrapper {
+    margin: 30px auto;
+    text-align: center;
+}
+
+
+.display {
+    margin: 20px auto;
+    width: 500px;
+    border: lavender 3px solid;
+    padding: 20px;
+}
